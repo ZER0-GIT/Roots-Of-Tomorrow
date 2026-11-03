@@ -1,5 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"tfc:powder/sylvite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tfc:ore/sylvite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

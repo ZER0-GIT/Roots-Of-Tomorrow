@@ -1,0 +1,4 @@
+guiScale:2
+lang:en_us
+narrator:0
+onboardAccessibility:false

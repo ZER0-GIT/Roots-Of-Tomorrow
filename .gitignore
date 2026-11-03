@@ -47,3 +47,20 @@ Desktop.ini
 
 # TFC Atlas cache
 /config/tfcatlas/cache*/
+
+# Mod files
+/mods/*.jar
+
+# CurseForge
+/.curseclient
+
+# Project instructions
+/AGENTS.md
+
+# Local mod configuration
+/config/**/*.*
+!/config/tfc-client.toml
+!/config/fml.toml
+!/config/iris.properties
+!/config/xaero/minimap/client.cfg
+!/config/xaero/world-map/client.cfg

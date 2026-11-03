@@ -1,4 +1,0 @@
-#Enable Blueprint diagnostics during mod startup
-#When true, structured anvil, design-desk and trip-hammer state is written to the log
-#The default is false for normal gameplay; use true in development instances
-debugDiagnostics = false

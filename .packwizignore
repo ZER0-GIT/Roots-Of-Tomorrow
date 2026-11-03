@@ -46,6 +46,8 @@ Desktop.ini
 .DS_Store
 
 # Dev files
+/AGENTS.md
+/.curseclient
 /.git/
 /.github/
 /.gitattributes
@@ -55,3 +57,14 @@ Desktop.ini
 
 # TFC Atlas cache
 /config/tfcatlas/cache*/
+
+# Local configuration; add explicit exceptions for files included in the pack
+/config/**/*.*
+!/config/tfc-client.toml
+!/config/fml.toml
+!/config/iris.properties
+!/config/xaero/minimap/client.cfg
+!/config/xaero/world-map/client.cfg
+
+# Downloaded mod files; keep Packwiz source manifests
+/mods/*.jar
