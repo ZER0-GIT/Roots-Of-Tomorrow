@@ -1,7 +1,7 @@
 {
-  "seed": "-7026496519631662817",
+  "seed": "9018153565568463753",
   "layer": "BIOMES",
-  "mode": "Full map",
+  "mode": "Explored only",
   "legend": true,
   "hover": true,
   "spawn": false,
@@ -14,28 +14,100 @@
   "exportCenter": "Map focus",
   "exportTransparentOcean": false,
   "exportMetadata": true,
-  "display": "Overlay",
+  "display": "TFC Layers Only",
   "opacity": 0.5,
   "highlightOpacity": 0.55,
   "labelScale": 0.5,
-  "toolbarScale": 0.5,
+  "toolbarScale": 0.9421137571334839,
   "keyScale": 0.5,
-  "infoScale": 0.4,
+  "infoScale": 0.8156538009643555,
   "criteriaScale": 0.45,
   "criteriaX": -1,
   "criteriaY": -1,
-  "keyX": -1,
-  "keyY": -1,
-  "infoX": -1,
-  "infoY": -1,
+  "keyX": 799,
+  "keyY": 304,
+  "infoX": 686,
+  "infoY": 399,
   "keyWidth": 0,
   "keyHeight": 0,
   "mapLabels": "Active layer",
-  "searchCircle": true,
+  "searchCircle": false,
   "minimapHighlights": false,
   "climateContinents": true,
-  "keySizes": {},
-  "keyScales": {},
+  "keySizes": {
+    "ROCKS": [
+      0,
+      221
+    ],
+    "RAIN_VARIANCE": [
+      0,
+      113
+    ],
+    "ALTITUDE": [
+      0,
+      80
+    ],
+    "INLAND": [
+      0,
+      81
+    ],
+    "CLIMATE_ZONES": [
+      0,
+      159
+    ],
+    "ROCK_TYPES": [
+      0,
+      61
+    ],
+    "TEMPERATURE": [
+      0,
+      106
+    ],
+    "JANUARY_RAIN": [
+      0,
+      135
+    ],
+    "SOIL": [
+      0,
+      94
+    ],
+    "BIOMES": [
+      0,
+      238
+    ],
+    "RAINFALL": [
+      0,
+      102
+    ],
+    "RIVERS": [
+      0,
+      74
+    ],
+    "JULY_RAIN": [
+      0,
+      110
+    ],
+    "GROUNDWATER": [
+      0,
+      82
+    ]
+  },
+  "keyScales": {
+    "ROCKS": 1.0640457361821638,
+    "RAIN_VARIANCE": 0.8717087612759055,
+    "ALTITUDE": 0.9278232172989056,
+    "INLAND": 0.9416108553448284,
+    "CLIMATE_ZONES": 0.7319896274710739,
+    "ROCK_TYPES": 0.9512195682715751,
+    "TEMPERATURE": 0.980114578549155,
+    "JANUARY_RAIN": 0.8855257796527836,
+    "SOIL": 0.7192951067170316,
+    "BIOMES": 0.7515774059341853,
+    "RAINFALL": 1.0436573047375193,
+    "RIVERS": 0.9734098866891315,
+    "JULY_RAIN": 0.7205206996991174,
+    "GROUNDWATER": 0.8369813346104614
+  },
   "uiRevision": 9,
   "searchRevision": 2,
   "coverageRevision": 2,

@@ -1,7 +1,7 @@
 {
-  "seed": "-3104465909793460162",
+  "seed": "-853594103204443335",
   "layer": "BIOMES",
-  "mode": "Full map",
+  "mode": "Explored only",
   "legend": true,
   "hover": true,
   "spawn": false,

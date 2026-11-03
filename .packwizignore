@@ -1,28 +1,28 @@
-# Mapas, waypoints y backups de Xaero
+# Xaero
 /xaero/
 /XaeroWaypoints*/
 /XaeroWorldMap*/
 
-# Datos locales y de Sable
+# Local data
 /local/
 /.sable/
 
-# Mundos y capturas
+# Worlds & screenshots
 /saves/
 /screenshots/
 
-# Registros y archivos temporales
+# Logs & temp
 /logs/
 /crash-reports/
 /downloads/
 /.mixin.out/
 
-# Datos del launcher
+# Launcher
 /profileImage/
 /minecraftinstance.json
 /instance.json
 
-# Preferencias e historial personal
+# Player settings
 /options.txt
 /optionsof.txt
 /servers.dat
@@ -31,24 +31,27 @@
 /patchouli_data.json
 /ponders_watched*.json
 
-# Caches de jugadores
+# Player cache
 /usercache.json
 /usernamecache.json
 
-# Exportaciones y ejecutable de packwiz
+# Exports & tools
 /*.zip
 /*.mrpack
 /packwiz.exe
 
-# Archivos del sistema
+# System
 Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Archivos de desarrollo que no deben instalarse con el pack
+# Dev files
 /.git/
 /.github/
 /.gitattributes
 /.gitignore
 /.packwizignore
 /README.md
+
+# TFC Atlas cache
+/config/tfcatlas/cache*/
