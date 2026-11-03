@@ -1,0 +1,10 @@
+name = "TFC: Roots of Tomorrow"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a018673c7470b8652ea4e27ac09adb70f9ffe9eecc95f1ea1cf580719510e288"
+
+[versions]
+minecraft = "1.21.1"

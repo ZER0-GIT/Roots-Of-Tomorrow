@@ -1,0 +1,46 @@
+# Mapas, waypoints y backups de Xaero
+/xaero/
+/XaeroWaypoints*/
+/XaeroWorldMap*/
+
+# Datos locales y de Sable
+/local/
+/.sable/
+
+# Mundos y capturas
+/saves/
+/screenshots/
+
+# Registros y archivos temporales
+/logs/
+/crash-reports/
+/downloads/
+/.mixin.out/
+
+# Datos del launcher
+/profileImage/
+/minecraftinstance.json
+/instance.json
+
+# Preferencias e historial personal
+/options.txt
+/optionsof.txt
+/servers.dat
+/servers.dat_old
+/command_history.txt
+/patchouli_data.json
+/ponders_watched*.json
+
+# Caches de jugadores
+/usercache.json
+/usernamecache.json
+
+# Exportaciones y ejecutable de packwiz
+/*.zip
+/*.mrpack
+/packwiz.exe
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,5 @@
+#TFC Forge Memory common settings
+#Maximum number of successful steps kept for one forging attempt
+# Default: 256
+# Range: 1 ~ 4096
+maxSteps = 256

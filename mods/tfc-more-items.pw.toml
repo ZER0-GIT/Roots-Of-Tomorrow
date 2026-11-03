@@ -1,0 +1,13 @@
+name = "TFC More Items"
+filename = "TFC-items-1.21.1-neoforge-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4969a56a3ea90a304f6a982e64a92f638aece978"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7161406
+project-id = 1189837

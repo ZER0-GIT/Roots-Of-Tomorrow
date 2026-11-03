@@ -1,0 +1,13 @@
+name = "TFCForgeMemery"
+filename = "tfcforgememory-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f461638b398bd26eeef5df7e9bffa04f41ab924"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9302806
+project-id = 1684476

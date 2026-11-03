@@ -1,0 +1,13 @@
+name = "TFC Music Maker"
+filename = "TFCMusicMaker-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "190c4d24b605ee89e8738a17ead5463f67601294"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8732255
+project-id = 1355917

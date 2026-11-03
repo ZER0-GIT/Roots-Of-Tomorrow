@@ -1,0 +1,13 @@
+name = "TFC Aeronautics"
+filename = "tfc_aeronautics-0.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "141d8b74cd589f2bf04e6ae5c0971665a12e236d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9218579
+project-id = 1636971

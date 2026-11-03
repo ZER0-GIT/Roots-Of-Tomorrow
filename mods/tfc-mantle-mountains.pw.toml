@@ -1,0 +1,13 @@
+name = "TFC Mantle Mountains"
+filename = "tfcmountains-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e30a1d067670768d83d573a88abbedef1205c321"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8887438
+project-id = 1540169

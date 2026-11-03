@@ -1,0 +1,13 @@
+name = "TFC Registry API"
+filename = "TFCRegistryAPI-1.21.x-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cf372565758c6eacae2b39652b5a288c138c45d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7324760
+project-id = 1396119

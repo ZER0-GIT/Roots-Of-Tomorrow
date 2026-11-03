@@ -1,0 +1,13 @@
+name = "Macaw's for TerraFirmaCraft Reborn"
+filename = "mcw_tfc_aio-Unofficial-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03da36218ac6169771df26578e7e784b31284d43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8740467
+project-id = 1669399

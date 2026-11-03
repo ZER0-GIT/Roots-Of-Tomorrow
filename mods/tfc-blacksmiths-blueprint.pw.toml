@@ -1,0 +1,13 @@
+name = "TFC Blacksmith’s Blueprint"
+filename = "tfcblacksmithsblueprint-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ce03135f62a360b0f7fa1ef1fb190ff2404a461"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9302672
+project-id = 1762133
