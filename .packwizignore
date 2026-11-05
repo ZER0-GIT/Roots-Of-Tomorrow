@@ -6,6 +6,7 @@
 # Local data
 /local/
 /.sable/
+/music_sheets/
 
 # Worlds & screenshots
 /saves/

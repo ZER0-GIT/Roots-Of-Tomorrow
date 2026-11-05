@@ -6,7 +6,7 @@ hash = "1c7aa4c3563d3eb34c9ba0ce92b6603f511e649bede7682c9231491a6c906bb8"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f82b8b86a128f8a4067f2b5a2bc8f432675cd5e82fa16f604137300870107a43"
+hash = "69e8b88c1c1b8c09caf84d09f957ef0f0911f8a810c7dab3d0cbc1ac277b1601"
 
 [[files]]
 file = "config/tfc-client.toml"
@@ -108,18 +108,13 @@ hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "e5c71564073063aa8cd45a512f719979939b4ac319370a9a223e2c1c4e846974"
-metafile = true
-
-[[files]]
-file = "mods/create-ore-excavation.pw.toml"
-hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
+metafile = true
+
+[[files]]
+file = "mods/create-rock-and-stone.pw.toml"
+hash = "b2746b808336fb515fbf1b3f42d8cfdf3f60b1ed70e36fb3ded5111fc7efb23d"
 metafile = true
 
 [[files]]
