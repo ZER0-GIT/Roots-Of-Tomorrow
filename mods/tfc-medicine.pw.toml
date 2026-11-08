@@ -1,0 +1,13 @@
+name = "TFC: Medicine"
+filename = "tfc_medicine-0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28635d83a85a11125b4651cc1880ebaa7e0142bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7068502
+project-id = 1340590

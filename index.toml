@@ -53,6 +53,11 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
+file = "mods/advanced-tfc-info.pw.toml"
+hash = "631d0ab5ff78aac3fd5eac495ccd30b51580e6ecc60a84461ca2bee51fbfb0f5"
+metafile = true
+
+[[files]]
 file = "mods/astikor-carts-redux.pw.toml"
 hash = "b6fccc38e9a017fcaa57097233536956cfa26502e4391489eecf4ce4f66f37dd"
 metafile = true
@@ -88,6 +93,11 @@ hash = "a21d5d0e2e3c1b5662ca1dc907cf496bb9f2a94b368a3f291967e8ba29043eaa"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "40fc9e871f9d9b2d327ca708a4881b682ca5fa1b9cfea53e2f67478b64783609"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
 hash = "60a1ce7ac8bb16432b736696cf9aaa507b31542c3dac4c5f81ea136052e06e46"
 metafile = true
@@ -108,6 +118,16 @@ hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
 metafile = true
 
 [[files]]
+file = "mods/create-picky-waterwheels.pw.toml"
+hash = "ae23fada92cbfd86ed42b5ddce601a61d0e9ef7ccb949578f3d0c13640b5328d"
+metafile = true
+
+[[files]]
+file = "mods/create-picky-wheels-tfc-wind.pw.toml"
+hash = "f7ecd4e64b9858061b4898b2b91152fd9763db3531723f3d585051b30e3c1455"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
 metafile = true
@@ -120,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
@@ -173,6 +198,11 @@ hash = "4a5ea596148af390e53eaa5225a5569f15cda6ace0c51edf9c6b175cf6030322"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "083c9d609335090c7fd62c13c146c0739306f597096e257fbdae6cdbb1917019"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-tfc.pw.toml"
 hash = "05c29e5b37302c8f5e375775af03ce261e8c8c8220613f10e6e8bd626d29403c"
 metafile = true
@@ -180,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "031e809b62d4d70a66be3e68ab7deeffba17027bb785c83b95c6dcfd4a4e6a8d"
+metafile = true
+
+[[files]]
+file = "mods/lychee.pw.toml"
+hash = "761b7c87db4310e834d7bf53ebc6e60e05846ee223d424f9cbff1049e25bbc68"
 metafile = true
 
 [[files]]
@@ -248,6 +283,21 @@ hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "6876c183b8154953471a24e47efc66b02fa88e9bf88b5ce910093d72d817fd45"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "f87df94252052022b6f742afc834092a594e4e6fdedf3837cfccc899aaa462d6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "8ea22b52142b97ea8b5bd0d732c5a59e9184b2b999d3d448c74186466d0e1e06"
+metafile = true
+
+[[files]]
 file = "mods/spindles-tfc.pw.toml"
 hash = "92cb06e8e12d19f546453dbfee29a311c128f4b4d76c1c40fa9f801eb7087e45"
 metafile = true
@@ -288,13 +338,28 @@ hash = "4b11c934584d44985d6492e3ecbd93d8a75ce0f1bd0a3a3ac6895614c138f314"
 metafile = true
 
 [[files]]
+file = "mods/tfc-ambiental.pw.toml"
+hash = "80dc299429e6e9af1cb46a0d7684e45df92c2a55bef2acc92608958f848b2de9"
+metafile = true
+
+[[files]]
 file = "mods/tfc-atlas.pw.toml"
 hash = "392963a1f60d39328b3b1b708a6aea0dfcaecc06cd7f66e2327cf9bf8f42a632"
 metafile = true
 
 [[files]]
+file = "mods/tfc-better-blast-furnace.pw.toml"
+hash = "01a8deb90931b85dc67b141b61cfbf9ce4a9d1f091dfa8e39f393bed867a6d19"
+metafile = true
+
+[[files]]
 file = "mods/tfc-blacksmiths-blueprint.pw.toml"
 hash = "22ebfc8b7366b68498337864fdf75d0b7b12c087de5a4a7a3e156c7b53c4fcbb"
+metafile = true
+
+[[files]]
+file = "mods/tfc-debark.pw.toml"
+hash = "af1e2ac15164f79295e95e26bffa90ec12ab5a56ad7cb8d2803e23fdb7837617"
 metafile = true
 
 [[files]]
@@ -308,8 +373,18 @@ hash = "4a9db562675e8e98ce78904c4b6624edb48136e5080773b13c842967fe44535d"
 metafile = true
 
 [[files]]
+file = "mods/tfc-lumberjack.pw.toml"
+hash = "0dba08ff22eed77968845eb538ea0a27d57f60757ef66123f585014d4eb363c3"
+metafile = true
+
+[[files]]
 file = "mods/tfc-mantle-mountains.pw.toml"
 hash = "45000964df11687daee3227ce9658bf3413ecee34ada0d9a5dbdcf690a3bfe52"
+metafile = true
+
+[[files]]
+file = "mods/tfc-medicine.pw.toml"
+hash = "b325f657ef3bfd0321389e12675a87948034b61b49d468f5016f2f136b281371"
 metafile = true
 
 [[files]]
@@ -323,8 +398,28 @@ hash = "6fb69b07f934d3f7c50e15700afd0b39cc32fad8b46d9660361356d1999796cb"
 metafile = true
 
 [[files]]
+file = "mods/tfc-ore-washing.pw.toml"
+hash = "6dc361fdf47316d4284fd19ab888a5a0f77b10e2915286ee2394898f0c96cf1c"
+metafile = true
+
+[[files]]
 file = "mods/tfc-registry-api.pw.toml"
 hash = "5da5b1be4822ce9825f908ba2b15ab40cd56ae67e9335fc85c2739e8c1a0f63c"
+metafile = true
+
+[[files]]
+file = "mods/tfc-sophisticated-backpacks-upgrade.pw.toml"
+hash = "bd3750609697d4ed4b7f8dfc565a6ab0f5ee61cae18a3f926ef0331cf096845c"
+metafile = true
+
+[[files]]
+file = "mods/tfc-vessel-tooltip.pw.toml"
+hash = "488f4e51987d51c5b90b9402bb89f5e7371b80b74ffb19d1fabfa9e9b3a8b7f5"
+metafile = true
+
+[[files]]
+file = "mods/tfcfertigation.pw.toml"
+hash = "0ec5d20a4456dde30ab6d70ebee6e76e1a6fec4302373191614b56ce9faf3f9a"
 metafile = true
 
 [[files]]

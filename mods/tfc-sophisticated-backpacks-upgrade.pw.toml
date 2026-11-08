@@ -1,0 +1,13 @@
+name = "TFC Sophisticated Backpacks Upgrade"
+filename = "tfcsbu-0.4.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55f9d370546d685774da684729b8bfcf4f35d527"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9055604
+project-id = 1432680

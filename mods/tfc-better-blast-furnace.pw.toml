@@ -1,0 +1,13 @@
+name = "TFC Better Blast Furnace"
+filename = "TFCBetterBlastFurnace-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6aa0695465bc0ad9369b1640a383d9067548cdd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8769052
+project-id = 1046432

@@ -1,0 +1,13 @@
+name = "TFC Vessel Tooltip"
+filename = "TFCVesselTooltip-NeoForge-1.21.1-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07acdddabf558c693f2bee2073676cf8575ab9f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7041417
+project-id = 952386

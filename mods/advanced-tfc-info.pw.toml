@@ -1,0 +1,13 @@
+name = "Advanced TFC Info"
+filename = "advanced_tfc_info-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fa561cdd897fc033d700902eebd2d7fbc46433d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9373901
+project-id = 1669266
