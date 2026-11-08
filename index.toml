@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "10e5b09851956447d7e1b55482fa64d6922280b013ba6ee396a648d8dc780523"
+hash = "7c9f545967a39ed28de1cabe0f9b27e6794be5d2d32d5fcfaca05aebda9178c7"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "3a38b581421787f8f5e6c59c07347fa1b0abe25943c8adc437bcb26a641e042e"
+hash = "1b2e04e6d7ecdc77dd2a0396a1b592309013aa72eb4811ec0f52959cac995c99"
 metafile = true
 
 [[files]]
