@@ -1,0 +1,13 @@
+name = "TFC x TFMG: Oil Well Compatibility"
+filename = "tfc-tmfg-oil-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lK08p0AO/versions/bceULuwK/tfc-tmfg-oil-0.0.1.jar"
+hash-format = "sha512"
+hash = "97beda5dfa098ce711476c95379e84ba56f8bd5cf4a5c2ade8b32d1e0530a44bae2dadc265fc6e9c1902a7d43f3446d39203a0c7a5573b17ec6cc4dc75c87b6a"
+
+[update]
+[update.modrinth]
+mod-id = "lK08p0AO"
+version = "bceULuwK"

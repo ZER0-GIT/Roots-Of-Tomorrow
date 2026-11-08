@@ -1,0 +1,6 @@
+{
+  "features": "roots:oil_medium",
+  "biomes": "#roots:oil_medium",
+  "type": "neoforge:add_features",
+  "step": "underground_ores"
+}

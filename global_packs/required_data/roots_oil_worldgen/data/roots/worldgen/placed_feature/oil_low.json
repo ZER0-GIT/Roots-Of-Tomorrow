@@ -1,0 +1,30 @@
+{
+  "feature": "tfmg:oil_deposit",
+  "placement": [
+    {
+      "type": "tfmg:config_boolean",
+      "enabled_when": true,
+      "option": "tfmg:oil_deposits"
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 16
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "tfmg:world_bottom"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "blocks": "minecraft:bedrock"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "replace": true,
+  "values": [
+    "tfc:burren_plains",
+    "tfc:cenote_plains",
+    "tfc:cenote_rolling_hills",
+    "tfc:coastal_dunes",
+    "tfc:deep_ocean",
+    "tfc:doline_plains",
+    "tfc:doline_rolling_hills",
+    "tfc:embayments",
+    "tfc:grassy_dunes",
+    "tfc:lowlands",
+    "tfc:mud_flats",
+    "tfc:ocean",
+    "tfc:plains",
+    "tfc:river_valley",
+    "tfc:rocky_shores",
+    "tfc:rolling_hills",
+    "tfc:salt_marsh",
+    "tfc:shilin_plains",
+    "tfc:shore",
+    "tfc:tidal_flats",
+    "tfc:tower_karst_plains"
+  ]
+}

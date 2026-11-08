@@ -65,3 +65,4 @@ Desktop.ini
 !/config/iris.properties
 !/config/xaero/minimap/client.cfg
 !/config/xaero/world-map/client.cfg
+!/config/global_packs.toml
