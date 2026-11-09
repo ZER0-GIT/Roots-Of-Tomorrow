@@ -5,10 +5,6 @@ file = "config/fml.toml"
 hash = "1c7aa4c3563d3eb34c9ba0ce92b6603f511e649bede7682c9231491a6c906bb8"
 
 [[files]]
-file = "config/global_packs.toml"
-hash = "e521baea8cde5a275585c7063fa3272b79a303c73e4efb1d509a638914e1299e"
-
-[[files]]
 file = "config/iris.properties"
 hash = "69e8b88c1c1b8c09caf84d09f957ef0f0911f8a810c7dab3d0cbc1ac277b1601"
 
@@ -23,70 +19,6 @@ hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
 [[files]]
 file = "config/xaero/world-map/client.cfg"
 hash = "fa3de19aaa0a0fc2fee96e47d922d676c4485a3f4ec72182ee849677702dbe6d"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/neoforge/biome_modifier/oil_high.json"
-hash = "c0b876267e61429d0fa828a05e83c3f90fd5df5b0283902e49788ee32b9a8944"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/neoforge/biome_modifier/oil_low.json"
-hash = "0f66e05d79059152fb4fe3398d54be68923114ee61007cb61bef5c9598a91c99"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/neoforge/biome_modifier/oil_medium.json"
-hash = "4f14e6253fc5aa56c9fee520183471c3802b59d4acc36e628e740c7601bd16c2"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/neoforge/biome_modifier/oil_well.json"
-hash = "6efcc0e3587118d3b9a009a86b7f098230824f7515d52baac2db064abdf86d17"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/tags/worldgen/biome/oil_high.json"
-hash = "747a553790a483d2bd84d1fbcd0c26ca71c15329382352bac004a2458792bfde"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/tags/worldgen/biome/oil_low.json"
-hash = "8c973c814079814b886d54e228f2d7ceef1c88edf6ebacea9d68c94f6e856b57"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/tags/worldgen/biome/oil_medium.json"
-hash = "90c853b0bafb49f786c14e9c12e5a5a1fd18760e1c459d6e151391e138980a51"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/tags/worldgen/biome/oil_well.json"
-hash = "46f0f1b526c7ec8f9897af55de7c3f53023942d6b515fc32105c630e5b8854c6"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/worldgen/placed_feature/oil_high.json"
-hash = "4d4254e9d2abbda12d3c95529678104376f3454b79624be783bb3ad3b3fee7c3"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/worldgen/placed_feature/oil_low.json"
-hash = "ecc14bff259f092c67c8d4c68a37fc1ae8207691f691336411bc07113d55ab97"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/worldgen/placed_feature/oil_medium.json"
-hash = "3802286783a0ec480cb4e6329067583be151a07e4410d696e88cd99439d496f7"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/roots/worldgen/placed_feature/oil_well.json"
-hash = "2dc07b0fcd3020db61aace72d9a3434e6725f5c4e4628df427082d40b60dc2dd"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/tfmg/neoforge/biome_modifier/oil.json"
-hash = "76f56d4d622c0aeafe91839cf82451638c4b328a2f8a6a72a64602cb2f080ab8"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/tfmg/neoforge/biome_modifier/oil_deposit.json"
-hash = "76f56d4d622c0aeafe91839cf82451638c4b328a2f8a6a72a64602cb2f080ab8"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/data/tfmg/neoforge/biome_modifier/oil_well.json"
-hash = "76f56d4d622c0aeafe91839cf82451638c4b328a2f8a6a72a64602cb2f080ab8"
-
-[[files]]
-file = "global_packs/required_data/roots_oil_worldgen/pack.mcmeta"
-hash = "93a9843a57cbfb20115a5585b4e76220691934b08425f9c5b706b819a4500385"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -111,6 +43,102 @@ hash = "e5f5f1516d555280dd2b532356296d5a681840c24ef45a8565c72c1ecdafce7a"
 [[files]]
 file = "kubejs/config/web_server.json"
 hash = "e39572af94230ea17fd13daf638996052c8b217f81bd7aa820ec0c9644937279"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/deposit_cold.json"
+hash = "8e72ab407e00b3300d54d4ac477b992de6c0f96bc0bcb10a5c923f50c0cd80d2"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/deposit_deep_ocean.json"
+hash = "fc0453212714d3705b7b54b6f6d9f21d66ebd903667697ada4f573416ed2a5d0"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/deposit_extreme.json"
+hash = "8a821413153a9ff66b4c047f3da6d144f0539bb55ac773ec94c71f5c9bf630e5"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/deposit_ocean.json"
+hash = "947ca832422877f62bf16b34ee2553a2adb512968c2e72b7bad191a65d4c7f2b"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/deposit_temperate.json"
+hash = "1abd8e096135337a6e582972af9ec969f57257cdacfd7355810ead910073fbea"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/deposit_warm.json"
+hash = "30f99251a75eaca88a6a0f0d8074383ecb09143807fc2bd04fa4ea0119e3e862"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/well_deep_ocean.json"
+hash = "f6e518592d9f717b588bffcd490906ea634295973fe3f4b45be2bb080ab91bbb"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/well_ocean.json"
+hash = "11c224e5790c21fa3a59adb892f62bc8cf5db734be44d090d4233a4b9864e849"
+
+[[files]]
+file = "kubejs/data/roots_oil/neoforge/biome_modifier/well_warm.json"
+hash = "121b4d5e2e2abbd8b1b05c383875a7fe6060609e9850d92072bcac62d0de1f48"
+
+[[files]]
+file = "kubejs/data/roots_oil/tags/worldgen/biome/deep_ocean.json"
+hash = "fe1d72c845db67d4806e942747a43bb3778cc38fa528ddfdb97666eeaa999fea"
+
+[[files]]
+file = "kubejs/data/roots_oil/tags/worldgen/biome/extreme.json"
+hash = "6e04e064eba1ec10dfdb607f257452326ffc29120a1477e769f6db6b0839215f"
+
+[[files]]
+file = "kubejs/data/roots_oil/tags/worldgen/biome/land.json"
+hash = "6f5231b47156aa16865e788c44f7088d2efe9a822c2b9b2edb67a3050c66ee77"
+
+[[files]]
+file = "kubejs/data/roots_oil/tags/worldgen/biome/ocean.json"
+hash = "50f1574ee3e073d7f41b6f37cc06b262a24133730b96a769a25f00285fbae74e"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/deposit_cold.json"
+hash = "c5157521f7bff9fe32efec4ea7c89b078b12c9330f8fad324cc0171924ac1728"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/deposit_deep_ocean.json"
+hash = "bee9e7c767df04ed54ce73589102682e163d4a8f8f733f3c5371d2678bb03e95"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/deposit_extreme.json"
+hash = "a6add4399c929dbab58eda26dd5eabf99bc53d25add057c6203ce351e330e2be"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/deposit_ocean.json"
+hash = "ec989a8308c9fae4275270d16cd21a06cccb5b51df8d2d570ca647aa79044bb0"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/deposit_temperate.json"
+hash = "7a4dda5afa487c0558c42bd1dd4077c06e59340b18687da8e1916557591468e9"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/deposit_warm.json"
+hash = "cadb0e6dfa119393e189f7d3cd4095bcae2e40eeb812f4accc131e7718727e90"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/well_deep_ocean.json"
+hash = "569b7c88d4d76e27dbdd9c902814b87a1cb5e980b56d557f76aed5194c486034"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/well_ocean.json"
+hash = "1d385cae1cb0d0008bc4c13643cf14595e8893743ba2c8f8cd22d7610e98ba5a"
+
+[[files]]
+file = "kubejs/data/roots_oil/worldgen/placed_feature/well_warm.json"
+hash = "cad3a307d40072f6bbf2f91ffe1a5a2199adcc67f8e1c2a2f2920702c6d26653"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/oil_deposit.json"
+hash = "76f56d4d622c0aeafe91839cf82451638c4b328a2f8a6a72a64602cb2f080ab8"
+
+[[files]]
+file = "kubejs/data/tfmg/neoforge/biome_modifier/oil_well.json"
+hash = "76f56d4d622c0aeafe91839cf82451638c4b328a2f8a6a72a64602cb2f080ab8"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -243,11 +271,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
-metafile = true
-
-[[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
 metafile = true
 
 [[files]]
@@ -483,11 +506,6 @@ metafile = true
 [[files]]
 file = "mods/tfc-sophisticated-backpacks-upgrade.pw.toml"
 hash = "bd3750609697d4ed4b7f8dfc565a6ab0f5ee61cae18a3f926ef0331cf096845c"
-metafile = true
-
-[[files]]
-file = "mods/tfc-tmfg-oil.pw.toml"
-hash = "5b8b4f82089d2805edb4370076a6f72681e66d248623d99a87c7a9a24cce6c12"
 metafile = true
 
 [[files]]

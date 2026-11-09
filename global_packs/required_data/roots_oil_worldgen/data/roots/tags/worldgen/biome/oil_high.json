@@ -1,9 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "tfc:deep_ocean_trench",
-    "tfc:dune_sea",
-    "tfc:mesas",
-    "tfc:salt_flats"
-  ]
-}

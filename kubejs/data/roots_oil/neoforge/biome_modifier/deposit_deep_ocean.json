@@ -1,0 +1,6 @@
+{
+  "biomes": "#roots_oil:deep_ocean",
+  "type": "neoforge:add_features",
+  "step": "underground_ores",
+  "features": "roots_oil:deposit_deep_ocean"
+}

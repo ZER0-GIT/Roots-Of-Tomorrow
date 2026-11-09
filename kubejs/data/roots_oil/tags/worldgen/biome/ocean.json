@@ -1,0 +1,10 @@
+{
+  "values": [
+    "tfc:ocean",
+    "tfc:shore",
+    "tfc:embayments",
+    "tfc:coastal_dunes",
+    "tfc:tidal_flats",
+    "tfc:salt_marsh"
+  ]
+}

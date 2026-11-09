@@ -69,4 +69,3 @@ Desktop.ini
 
 # Downloaded mod files; keep Packwiz source manifests
 /mods/*.jar
-!/config/global_packs.toml

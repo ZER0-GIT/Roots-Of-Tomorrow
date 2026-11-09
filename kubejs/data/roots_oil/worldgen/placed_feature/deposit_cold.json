@@ -1,0 +1,38 @@
+{
+  "feature": "tfmg:oil_deposit",
+  "placement": [
+    {
+      "type": "tfmg:config_boolean",
+      "enabled_when": true,
+      "option": "tfmg:oil_deposits"
+    },
+    {
+      "chance": 24,
+      "type": "minecraft:rarity_filter"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "heightmap": "WORLD_SURFACE_WG",
+      "type": "minecraft:heightmap"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "tfc:climate",
+      "max_temperature": -0.01
+    },
+    {
+      "type": "tfmg:world_bottom"
+    },
+    {
+      "predicate": {
+        "blocks": "minecraft:bedrock",
+        "type": "minecraft:matching_blocks"
+      },
+      "type": "minecraft:block_predicate_filter"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    "tfc:dune_sea",
+    "tfc:salt_flats",
+    "tfc:mesas",
+    "tfc:badlands",
+    "tfc:lowlands",
+    "tfc:river_valley",
+    "tfc:mud_flats",
+    "tfc:cenote_plains",
+    "tfc:cenote_hills",
+    "tfc:tower_karst_plains",
+    "tfc:plains",
+    "tfc:rolling_hills",
+    "tfc:hills",
+    "tfc:plateau",
+    "tfc:canyons",
+    "tfc:low_canyons"
+  ]
+}

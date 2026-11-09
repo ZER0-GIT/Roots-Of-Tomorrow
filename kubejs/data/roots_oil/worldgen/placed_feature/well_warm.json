@@ -1,0 +1,38 @@
+{
+  "feature": "tfmg:oil_well",
+  "placement": [
+    {
+      "type": "tfmg:config_boolean",
+      "enabled_when": true,
+      "option": "tfmg:oil_wells"
+    },
+    {
+      "chance": 128,
+      "type": "minecraft:rarity_filter"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "heightmap": "WORLD_SURFACE_WG",
+      "type": "minecraft:heightmap"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "min_temperature": 15,
+      "type": "tfc:climate"
+    },
+    {
+      "type": "tfmg:world_bottom"
+    },
+    {
+      "predicate": {
+        "blocks": "minecraft:bedrock",
+        "type": "minecraft:matching_blocks"
+      },
+      "type": "minecraft:block_predicate_filter"
+    }
+  ]
+}
